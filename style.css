@@ -15,6 +15,6 @@ body {
     text-align: center;
 }
 header {
-    display: block;
-    unicode-bidi: isolate;
+    background: linear-gradient(90deg, #ff00ff, #0000ff);
+    padding: 20px;
 }
