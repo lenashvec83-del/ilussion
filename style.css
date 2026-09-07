@@ -7,7 +7,7 @@ body {
     padding: 0;
     text-align: center;
 }
-header {
+header,footer{
     background: linear-gradient(90deg, #ff00ff, #0000ff);
     padding: 20px;
     display:flex;
@@ -19,4 +19,16 @@ ul {
     display:flex;
     gap:30px;
     list-style-type: none;
+}
+img{
+    width: 40%;
+
+}
+form {
+    width: 400px;
+    background-color: #222;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: left;
 }
