@@ -22,7 +22,7 @@ ul {
 }
 img{
     width: 40%;
-
+height: 300px;
 }
 form {
     width: 400px;
@@ -31,4 +31,9 @@ form {
     border-radius: 10px;
     display: inline-block;
     text-align: left;
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 24px;
 }
